@@ -6,7 +6,7 @@ The studies can be listed as follows
 
 **1 -** Generation of SVPWM and SPWM gating signals for 2-level and 3-level Inverters
 
-**2 -**  DC Link & AC Side Analysis 
+[**2 -**  DC Link & AC Side Analysis ](https://github.com/hakansrc/Research_League_Studies_2017/blob/master/useful%20codes%20%26%20explanations.md)
 
 **3 -**  Efficiency calculations  [With the help of [Melisa Sarıcı](https://github.com/MelisaSarici)]
 

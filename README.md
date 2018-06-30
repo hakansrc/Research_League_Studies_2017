@@ -10,3 +10,4 @@ The studies can be listed as follows
 
 **3 -**  [ Efficiency calculations](https://github.com/hakansrc/Research_League_Studies_2017/blob/master/efficiency%20part.md)  [Algorithm development of this part is belong to [Melisa Sarıcı](https://github.com/MelisaSarici)]
 
+You can reach me (or the people mentioned) for any unclear details.
